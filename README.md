@@ -9,3 +9,5 @@ TESTING CAPTCHA FOLDER CONTAINED UNSEPEARATED CAPTCHA IMAGES\
 TESTING_EXTRACTED CONTAINS EXTRACTED CHARACTERS AND USED FOR PREDICTIONS\
 \
 predict_knn.py DEPENDS ON TESTING_EXTRACTED FOLDER. IT USES THESE IMAGES FOR PREDICTIONS AND TESTING ACCURACY.}
+
+**Due to size restrictions, data set has been truncated to a smaller subset of 1,000 images per directory. This does not impact accuracy as models are already trained. **
